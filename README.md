@@ -8,4 +8,7 @@ suivre les performances des ventes par région et catégorie pour identifier les
 
 **_Dashboard preview_**:
 
-![Alt text](Sales Dashboard.png) 
+![Sales Dashboard.png]() 
+
+![Sales_Dashboard](https://github.com/user-attachments/assets/0ac6a69b-5e13-479d-848d-f5d16d1d289b)
+

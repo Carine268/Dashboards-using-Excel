@@ -6,5 +6,5 @@ Ce projet vise à créer un tableau de bord interactif sous Excel pour analyser 
 suivre les performances des ventes par région et catégorie pour identifier les axes d'amélioration et optimiser sa stratégie commerciale.
 
 
-Dashboard preview:
-
+**_Dashboard preview_**:
+![] (Sales Dashboard.png)

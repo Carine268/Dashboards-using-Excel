@@ -7,4 +7,5 @@ suivre les performances des ventes par région et catégorie pour identifier les
 
 
 **_Dashboard preview_**:
-![ ](Sales Dashboard.png) 
+
+![Alt text](Sales Dashboard.png) 
